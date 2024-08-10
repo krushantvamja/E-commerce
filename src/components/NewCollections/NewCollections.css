@@ -1,0 +1,24 @@
+
+
+
+.new-collections h1{
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+
+
+}
+.new-collections hr{
+    width: 200px;
+    justify-content: center;
+    margin-left: 650px;
+}
+
+.collections{
+    margin: 10px;
+    gap: 30px;
+
+    display:flex;
+
+}
